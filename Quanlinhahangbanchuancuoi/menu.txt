@@ -1,0 +1,31 @@
+F;1;Grilled Beef Steak;150000;10;main course;250;0
+F;2;Caesar Salad;90000;15;appetizer;200;1
+F;3;Garlic Bread;45000;20;appetizer;120;1
+F;4;Fried Chicken Wings;95000;18;appetizer;220;0
+F;5;Pho Bo;75000;30;main course;350;0
+F;6;Bun Cha;80000;25;main course;330;0
+F;7;Com Tam Suon Bi;85000;25;main course;350;0
+F;8;Mi Xao Hai San;98000;20;main course;320;0
+F;9;Vegetarian Fried Rice;70000;15;main course;300;1
+F;10;Lau Thai Hai San;280000;8;main course;800;0
+F;11;BBQ Pork Ribs;190000;10;main course;400;0
+F;12;Sushi Platter;220000;6;main course;450;0
+F;13;Mixed Green Salad;65000;18;appetizer;180;1
+F;14;Chocolate Lava Cake;95000;10;dessert;140;1
+F;15;Vanilla Ice Cream;45000;20;dessert;100;1
+
+D;16;Coca Cola Can;25000;60;soft drink;0;0
+D;17;Pepsi Can;25000;60;soft drink;0;0
+D;18;Fresh Orange Juice;35000;35;juice;0;0
+D;19;Fresh Lemon Juice;30000;35;juice;0;0
+D;20;Heineken Bottle;35000;50;beer;1;0
+D;21;Saigon Special;30000;45;beer;1;0
+D;22;Red Wine House Glass;90000;20;wine;1;0
+D;23;Hot Latte;45000;25;coffee;0;1
+D;24;Iced Cappuccino;48000;25;coffee;0;0
+D;25;Hot Green Tea;30000;30;tea;0;1
+D;26;Milk Tea Classic;42000;30;milk tea;0;0
+D;27;Passion Fruit Soda;38000;25;soft drink;0;0
+D;28;Mojito Mocktail;55000;15;mocktail;0;0
+D;29;Whiskey Shot;95000;15;spirit;1;0
+D;30;Hot Chocolate;42000;20;chocolate;0;1
