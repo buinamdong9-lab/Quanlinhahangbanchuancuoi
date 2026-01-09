@@ -53,4 +53,4 @@ public:
     void display() const;
 };
 
-#endif // BILL_H
+#endif
